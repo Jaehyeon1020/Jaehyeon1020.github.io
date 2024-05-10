@@ -1,20 +1,41 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: About me
+description: 나에 대해
+slug: about-me
+date: 2024-05-10 00:00:00+0000
 image: cover.jpg
-categories:
-    - Example Category
-tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1 # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+# 김재현 Jaehyeon Kim
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+> 안녕하세요! 방문해주셔서 감사합니다!
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+\
+Back-end Engineer
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+## Education
+
+- 성균관대학교 독어독문학과 / 소프트웨어학과 4학년으로 재학중입니다.
+
+## Skills
+
+**Languages**
+
+- Javascript
+- Typescript
+- Python3
+- C
+- C++
+- Java
+
+**Backend Framworks**
+
+- Nest.js
+- FastAPI
+
+**Contact**
+\
+왼쪽의 Github Icon을 클릭하면 깃허브 프로필로 연결됩니다.
+\
+궁금한 것이 있다면 kjhkk1020@g.skku.edu 이메일로 연락주세요!
