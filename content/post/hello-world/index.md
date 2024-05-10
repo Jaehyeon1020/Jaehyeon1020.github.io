@@ -34,8 +34,8 @@ weight: 1 # You can add weight to some posts to override the default sorting (da
 - Nest.js
 - FastAPI
 
-**Contact**
-\
+## Contact
+
 왼쪽의 Github Icon을 클릭하면 깃허브 프로필로 연결됩니다.
 \
 궁금한 것이 있다면 kjhkk1020@g.skku.edu 이메일로 연락주세요!
