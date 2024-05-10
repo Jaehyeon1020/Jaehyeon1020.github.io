@@ -12,7 +12,7 @@ weight: 1 # You can add weight to some posts to override the default sorting (da
 > 안녕하세요! 방문해주셔서 감사합니다!
 
 \
-Back-end Engineer
+백엔드 엔지니어가 되기 위해 공부하고 있습니다.
 
 ## Education
 
